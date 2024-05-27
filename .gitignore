@@ -1,0 +1,12 @@
+**/build/
+**/devel/
+**/.catkin_workspace
+
+remote_control/follow1/src/CMakeLists.txt
+remote_control/follow2/src/CMakeLists.txt
+remote_control/master1/src/CMakeLists.txt
+remote_control/master2/src/CMakeLists.txt
+
+follow_control/follow1/src/CMakeLists.txt
+follow_control/follow2/src/CMakeLists.txt
+
